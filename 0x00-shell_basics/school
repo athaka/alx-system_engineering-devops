@@ -1,2 +1,2 @@
-0	string SCHOOL This is a school data file
-!:mime text/money
+#!/bin/bash
+file -m school.mgc
